@@ -1,10 +1,10 @@
 // Sample data for the leaderboard
 const players = [
-  { name: "Felhasználó1", score: 1000 },
-  { name: "Felhasználó2", score: 800 },
-  { name: "Felhasználó3", score: 700 },
-  { name: "Felhasználó4", score: 500 },
-  { name: "Felhasználó5", score: 300 },
+  //{ name: "Felhasználó1", score: 1000 },
+  //{ name: "Felhasználó2", score: 800 },
+  //{ name: "Felhasználó3", score: 700 },
+  //{ name: "Felhasználó4", score: 500 },
+  //{ name: "Felhasználó5", score: 300 },
 ];
 
 // Function to generate the leaderboard HTML
