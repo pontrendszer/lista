@@ -1,6 +1,6 @@
 // Sample data for the leaderboard
 const players = [
-  
+  //{ name: "John Doe", score: 1000 },
 ];
 
 // Function to generate the leaderboard HTML
