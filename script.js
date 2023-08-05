@@ -13,7 +13,7 @@ function generateLeaderboard() {
 
   if (sortedPlayers.length === 0) {
     const errorMessage = document.createElement("p");
-    errorMessage.innerText = "⌛A lista az 1. játék után frissül. Megértéseteket köszönöm!⌛";
+    errorMessage.innerText = "❌A lista ki van kapcsolva.❌";
     errorMessage.classList.add("error-message"); // Add error message class
     leaderboardElement.appendChild(errorMessage);
   } else {
