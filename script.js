@@ -1,6 +1,15 @@
 // Sample data for the leaderboard
 const players = [
-  //{ name: "John Doe", score: 1000 },
+ { name: "Dóra", score: 1 },
+ { name: "Anna", score: 2 },
+ { name: "Flóra", score: 2 },
+ { name: "Hanna", score: 2 },
+ { name: "Bálint", score: 2 },
+ { name: "Julcsi", score: 1 },
+ { name: "Sára", score: 2 },
+ { name: "Finn", score: 2 },
+ { name: "Leon", score: 2 },
+ { name: "Regi", score: 1 },
 ];
 
 // Function to generate the leaderboard HTML
